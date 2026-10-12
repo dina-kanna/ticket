@@ -15,7 +15,7 @@ const movies = [
       "A musical coming-of-age story following the journey of Hip-Hop Tamizha.",
     price: 180,
     showtimes: ["10:00 AM", "1:30 PM", "6:00 PM", "9:30 PM"],
-    trailer: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    trailer: "https://www.youtube.com/watch?v=lU40CPN7Ww0&pp=ygUZbWVlc2F5YSBtdXJ1a2t1IDIgdHJhaWxlcg%3D%3D",
   },
   {
     id: 2,
@@ -33,7 +33,7 @@ const movies = [
       "A boy accidentally locks a feared criminal inside a school restroom, leading to an unexpected friendship.",
     price: 200,
     showtimes: ["9:00 AM", "12:30 PM", "4:00 PM", "8:00 PM"],
-    trailer: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    trailer: "https://www.youtube.com/watch?v=CFroXKVQtuw&pp=ygUPQmF0aHRoYSB0cmFpbGVy",
   },
   {
     id: 3,
@@ -51,7 +51,7 @@ const movies = [
       "A newly married couple faces unexpected danger while trying to build a life together.",
     price: 180,
     showtimes: ["10:30 AM", "2:00 PM", "5:30 PM", "9:00 PM"],
-    trailer: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    trailer: "https://www.youtube.com/watch?v=dttG5wtkgCw&pp=ygUSQW5iaWwgQXZhbiB0cmFpbGVy",
   },
   {
     id: 4,
@@ -69,7 +69,7 @@ const movies = [
       "Two childhood friends see their lives transformed by a woman who challenges the prejudice around them.",
     price: 200,
     showtimes: ["9:30 AM", "1:00 PM", "5:00 PM", "8:30 PM"],
-    trailer: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    trailer: "https://www.youtube.com/watch?v=cCbiVWgEW1w&pp=ygUPRG9yb3RoeSB0cmFpbGVy",
   },
   {
     id: 5,
@@ -88,7 +88,7 @@ const movies = [
     price: 250,
     showtimes: ["9:00 AM", "12:45 PM", "5:00 PM", "9:00 PM"],
     image: "https://tse1.mm.bing.net/th/id/OIP.SIHkwqzms2ZsCu8CQnPxbwHaLH?r=0&pid=ImgDet&w=189&h=283&c=7&dpr=1.3&o=7&rm=3",
-    trailer: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    trailer: "https://www.youtube.com/watch?v=62bIsvRcPv0&pp=ygUhU3BpZGVyLU1hbjogQnJhbmQgTmV3IERheSB0cmFpbGVy",
   },
   {
     id: 6,
@@ -106,7 +106,7 @@ const movies = [
       "A rogue treasure hunter risks everything in pursuit of a valuable prize.",
     price: 200,
     showtimes: ["9:00 AM", "12:30 PM", "4:00 PM", "8:30 PM"],
-    trailer: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    trailer: "https://www.youtube.com/watch?v=hgnVXBtuWe8&pp=ygUOU2lnbWEgIHRyYWlsZXI%3D",
   },
   {
     id: 7,
@@ -124,7 +124,7 @@ const movies = [
       "An extraordinary encounter intertwines the lives of a man, an immortal, and a curious rat.",
     price: 180,
     showtimes: ["10:00 AM", "1:30 PM", "5:30 PM", "9:00 PM"],
-    trailer: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    trailer: "https://www.youtube.com/watch?v=JdAUqyg7Wuk&pp=ygUfWWV6aHUgS2FkYWwgWWV6aHUgTWFsYWkgdHJhaWxlcg%3D%3D",
   },
   {
     id: 8,
@@ -142,7 +142,7 @@ const movies = [
       "An inspector investigates mysterious deaths in a village hiding a dark secret.",
     price: 200,
     showtimes: ["9:30 AM", "1:00 PM", "5:00 PM", "8:30 PM"],
-    trailer: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    trailer: "https://www.youtube.com/watch?v=9t2-keYiSas&pp=ygUXVGhlIERhcmsgSGVhdmVuIHRyYWlsZXI%3D",
   },
   {
     id: 9,
@@ -160,7 +160,7 @@ const movies = [
       "An action drama set in a turbulent world where survival and justice collide.",
     price: 220,
     showtimes: ["10:00 AM", "2:00 PM", "6:00 PM", "9:30 PM"],
-    trailer: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    trailer: "https://www.youtube.com/watch?v=r2Yf6LLewuc&pp=ygUUVGhlIFBhcmFkaXNlIHRyYWlsZXI%3D",
   },
   {
     id: 10,
@@ -178,7 +178,7 @@ const movies = [
       "A high-stakes sports action drama set in the world of coastal Tamil Nadu boat racing.",
     price: 220,
     showtimes: ["9:00 AM", "12:45 PM", "5:00 PM", "9:00 PM"],
-    trailer: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    trailer: "https://www.youtube.com/watch?v=VOHaf-0DV-U&pp=ygUQTWFuZGFhZGkgdHJhaWxlcg%3D%3D",
   },
   {
     id: 11,
@@ -196,7 +196,7 @@ const movies = [
       "A homecoming sparks romance, family memories, and unexpected gossip in a close-knit community.",
     price: 200,
     showtimes: ["10:00 AM", "1:30 PM", "5:30 PM", "9:00 PM"],
-    trailer: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    trailer: "https://www.youtube.com/watch?v=fk0JHh1P9H0&pp=ygUeQmV0aGxlaGVtIEt1ZHVtYmEgVW5pdCB0cmFpbGVy0gcJCTcMAYcqIYzv",
   },
 ];
 
